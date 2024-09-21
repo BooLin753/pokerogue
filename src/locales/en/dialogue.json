@@ -554,16 +554,16 @@
   },
   "rood": {
     "encounter": {
-      "1": "You are a threat to Team Plasma. We cannot let you walk away from here and now!",
-      "1_female": "You are a threat to Team Plasma. We cannot let you walk away from here and now!",
-      "2": "It seems you don't know when to give up. I'll make sure no one interferes with our plans!",
-      "3": "You are a remarkable Trainer to have made it this far. But this is where it ends.",
-      "3_female": "You are a remarkable Trainer to have made it this far. But this is where it ends."
+      "1": "I've been waiting in the abyss for this day. No one shall interfere!",
+      "1_female": "I've been waiting in the abyss for this day. No one shall interfere!",
+      "2": "Superior men understand what is right.",
+      "3": "I would like to see what kind of person you are, Trainer. That's right. In a Pokémon battle!",
+      "3_female": "I would like to see what kind of person you are, Trainer. That's right. In a Pokémon battle!"
     },
     "victory": {
-      "1": "Ghetsis... I have failed my mission...",
-      "2": "The cold is piercing. I'm shivering. I'm suffering. Yet, we will stand triumphant.",
-      "3": "Hm. You are a talented Trainer, but unfortunately not talented enough."
+      "1": "Ho! You fight as if you really understand your Pokémon!",
+      "2": "I would like us to gather again. But more than anything, I'd like to see N confront Ghetsis.",
+      "3": "My Lord N is a wonderful person. But still, he has much to learn about understanding the hearts of people."
     }
   },
   "xerosic": {
@@ -650,7 +650,7 @@
       "1": "Don't mess with Team Galactic!",
       "2": "Witness the power of our technology and the future we envision!",
       "3": "In the name of Team Galactic, I'll eliminate anyone who stands in our way!",
-      "4": "Get ready to lose!",
+      "4": "Our hairstyles are out of this world... but our battling skills? You'll find out soon enough. ",
       "5": "Hope you're ready for a cosmic beatdown!",
       "5_female": "Hope you're ready for a cosmic beatdown!"
     },
@@ -668,7 +668,7 @@
       "2": "If I win against you, release your Pokémon!",
       "3": "If you get in the way of Team Plasma, I'll take care of you!",
       "4": "Team Plasma will liberate Pokémon from selfish humans like you!",
-      "5": "Our hairstyles are out of this world... but our battling skills? You'll find out soon enough."
+      "5": "Get ready to lose!"
     },
     "victory": {
       "1": "Plasmaaaaaaaaa!",
@@ -877,13 +877,13 @@
   },
   "plasma_boss_ghetsis_1": {
     "encounter": {
-      "1": "I won't allow anyone to stop me! No matter who does what!"
+      "1": "If we can win people's hearts and minds, we can create the world that I--I mean, Team Plasma--desires!"
     },
     "victory": {
       "1": "How can this be? I'm the creator of Team Plasma! I'm perfect!"
     },
     "defeat": {
-      "1": "I am the perfect ruler of a perfect new world! Mwa ha ha!"
+      "1": "I am the perfect ruler of a perfect new world! Mwa-ha-ha!"
     }
   },
   "plasma_boss_ghetsis_2": {
@@ -924,7 +924,7 @@
       "1": "You're going to startle my sweet beast! It looks like I'll need to silence you first."
     },
     "victory": {
-      "1": "How... how can you be so awful!"
+      "1": "How... how can you be so awful?"
     },
     "defeat": {
       "1": "Hmph..."
